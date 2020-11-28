@@ -1,0 +1,214 @@
+html{
+    width: 875px;
+    height: 900px;
+}
+
+.header img{
+    width: 150px;
+    position: absolute;
+}
+
+.globe {
+    display: inline-block;
+}
+
+.header h1{
+    padding-top: 50px;
+    color: rgb(71,71,71);
+    margin-left: 146px;
+    margin-bottom: 0px;
+    font-size: 40px;
+}
+
+.header span{
+    color: rgb(34,101,158);
+}
+
+.header h2{
+    background-color: rgb(75,126,170);
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    padding-left: 30px;
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: 0px;
+}
+
+.navigation{
+    background-color: rgb(247,247,247);
+    /* opacity: 0.5; */
+    height: 500px;
+    width: 250px;
+}
+
+.navigation h2{
+    font-size: medium;
+}
+
+#internet{
+    color: red;
+}
+
+.net{
+    color: rgb(34,101,158);
+}
+
+.content{
+    background-color: rgb(233,233,233);
+    height: 76px;
+    width: 609px;
+    display: inline-flex;
+}
+
+.body{
+    display: inline-flex;
+    height: 70px;
+}
+
+button{
+    width: 240px;
+    padding: 5px;
+    margin: 2px;
+    color: white;
+    border-radius: 5px;
+}
+
+#video{
+    background-color: rgb(72,132,181);
+}
+
+#resources{
+    background-color: rgb(240,128,0);
+}
+
+#ninja{
+    width: 100px;
+    position: absolute;
+    left: 77px;
+    top: 558px;
+}
+
+#adimg{
+    width: 240px;
+    position: relative;
+    margin-top: 40px;
+}
+
+hr.solid{
+    border-top: 3px solid #bbb;
+    margin-top: 33px;
+    margin-bottom: 0px;
+}
+
+.ad h2{
+    position: relative;
+    bottom: 351px;
+    right: 0px;
+    left: 0px;
+    margin-right: 10px;
+    font-size: 28px;
+    text-align: center;
+    color: white;
+}
+
+.ad button{
+    position: relative;
+    bottom: 201px;
+    width: 175px;
+    margin-left: 30px;
+    background-color: rgb(72,202,223);
+}
+
+.dns{
+    display: inline-flex;
+    background-color: rgb(233,233,233);
+    width: 360px;
+}
+
+.dns img{
+    width: 20px;
+    height: 20px;
+    margin-top: 12px;
+}
+
+.dns p{
+    margin-left: 5px;
+    color: rgb(67,120,170);
+}
+
+#phone{
+    width: 35px;
+    height: 35px;
+    margin-top: 21px;
+    margin-right: 6px;
+}
+
+.phone p{
+    margin: 0px;
+    font-size: smaller;
+}
+
+.phone h1{
+    margin: 0px;
+    width: 25px;
+    color: rgb(0,192,223);
+}
+
+.divider{
+    border-top: 8px solid #bbb;
+    transform: rotate(180deg);
+}
+
+.client{
+    margin-left: 262px;
+    height: 75px;
+    font-weight: 500;
+    font-size: smaller;
+}
+
+.client h3{
+    margin-bottom: 0px;
+    color: rgb(39,106,161);
+    font-weight: bold;
+}
+
+.client p{
+    margin-top: 6px;
+}
+
+.blue{
+    color: rgb(93,183,199);
+}
+
+.black{
+    color: black;
+    font-weight: bold;
+}
+
+.clientserver{
+    margin-left: 400px;
+    width: 300px;
+    margin-top: 75px;
+    margin-bottom: 0px;
+}
+
+.footer img{
+    width: 90px;
+    margin-left: 7px;
+    margin-top: 19px;
+    margin-right: 12px;
+}
+
+.footer {
+    display: inline-flex;
+    border-style: solid;
+    border-color: rgb(0,133,223);
+    margin-top: 100px;
+    margin-left: 275px;
+}
+
+.footer p{
+    font-size: smaller;
+}
